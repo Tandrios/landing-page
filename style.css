@@ -166,7 +166,7 @@
 .action {
     width: 1000px;
     background-color: #3882F6;
-    color:#e5e7eb;
+    color: white;
     border-radius: 10px;
     margin: 100px 10px;
     padding: 50px 100px;
@@ -178,7 +178,7 @@
 }
 .action-button > button {
     background-color: #3882F6;
-    color: #e5e7eb;
+    color: white;
     font-size: 18px;
     font-weight: thin;
     padding: 5px 20px;
@@ -194,7 +194,7 @@ footer {
 }
 
 .copyright {
-    color: #e5e7eb;
+    color: white;
     font-size: 18px;
     font-weight: lighter;
     padding: 20px
